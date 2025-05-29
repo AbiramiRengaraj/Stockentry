@@ -52,4 +52,5 @@ This is a simple **console-based Java application** for managing product stock a
 ## 🏅 Certificate
 
 This project was completed as part of a beginner-level Java certification program.
+Link: https://drive.google.com/file/d/1RztQZoM0SZDMETZD0T9x6SK5jN3uY4-D/view?usp=drive_link
 
